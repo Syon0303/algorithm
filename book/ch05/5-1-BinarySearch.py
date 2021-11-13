@@ -1,5 +1,5 @@
 # 이진 탐색을 활용한 부품 찾기
-
+ 
 def binary_search(array, target, start, end):
     while start <= end:
         mid = (start + end) // 2
