@@ -1,4 +1,4 @@
-# 떡볶이 떡 만들기
+# 떡볶이  만들기
 
 n, m = map(int, input().split())
 data = list(map(int, input().split()))
